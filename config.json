@@ -1,0 +1,10 @@
+{
+    "prefix": "?",
+    "token" : "",
+    "bot_age": 1,
+    "words_array" : ["Hi", "Bye", "This is array"],
+    "bot_info" : {
+        "name" : "Bot matek541#7801",
+        "version" : 1.0 
+    }
+}
